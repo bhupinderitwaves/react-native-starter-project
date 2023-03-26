@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {ScreenContainer, StyledText} from '@components/atoms';
+import {ScreenContainer, StyledText} from '../../../components/atoms';
 
 class WelcomeScreen extends Component {
   render() {
